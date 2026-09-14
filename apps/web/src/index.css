@@ -1,0 +1,3 @@
+/* Reset default Vite styles — all styles are in globals.css */
+body { margin: 0; }
+#root { min-height: 100vh; }
